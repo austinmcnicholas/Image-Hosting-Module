@@ -1,5 +1,5 @@
 # Image Hosting Module
- Mendix Image Hosting Module
+Host images from your Mendix application!
  
 # Configuration:
 1. Add InitializeImageHosting sub microflow to after start up flow.
