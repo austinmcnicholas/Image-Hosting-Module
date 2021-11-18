@@ -26,5 +26,8 @@ The request handler name and attribute to query on can be changed by updating th
 
 The HostImage java action can be added to the after start up microflow for more advanced setup.
 
-Disclaimer: 
+# Mx8
+A Mendix 8 module can be found in github
+
+# Disclaimer: 
 This java action does not apply any database access rules to access the image, the main intent is to host images for anonymous users and allow the image to be embedded into emails. It is not recommended to configure the request handler to expose any entities from the system module or any entities that contain sensitive information. 
