@@ -2,8 +2,8 @@
 Host images from your Mendix application!
  
 # Configuration:
-1. Add InitializeImageHosting sub microflow to after start up flow.
-2. Add overview snippet to a page 
+1. Add the InitializeImageHosting sub microflow to the after start up flow.
+2. Add the overview snippet to a page and then add the page to your navigation 
 3. Upload images to your database
 
 
