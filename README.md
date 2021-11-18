@@ -15,7 +15,7 @@ This url can be used to embed images into emails using the html image tag
 
 # Example:
 
-<img src="http://localhost:8080/image?Name=07CAT-STRIPES-mediumSquareAt3X-v2.jpg" width="500" height="600">
+"<img src="http://localhost:8080/image?Name=07CAT-STRIPES-mediumSquareAt3X-v2.jpg" width="500" height="600">"
 
 
 
